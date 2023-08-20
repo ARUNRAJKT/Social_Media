@@ -1,0 +1,14 @@
+.divcontents{
+    background-color: rgb(75, 75, 75);
+    position: sticky;
+    height: 100%;
+    display: flex;
+    
+    /* margin-top: -19.9px; */
+}
+/* .cf{
+    height: 700px; 
+    margin-top: -500px;
+    position: sticky;
+overflow-y: scroll;
+} */

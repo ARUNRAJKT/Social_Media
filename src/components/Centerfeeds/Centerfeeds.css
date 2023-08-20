@@ -1,0 +1,74 @@
+.centerfeed{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    width: 700px;
+    font-family: monospace;
+    height: 795px;
+    border-radius: 30px;
+    margin-left: 370px;
+     margin-top:20px ; 
+    margin-bottom: 30px;
+    -webkit-box-shadow: 0px -1px 15px -3px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px -1px 15px -3px rgba(0,0,0,0.75);
+    box-shadow: 0px -1px 15px -3px rgba(0,0,0,0.75);
+
+
+}
+.row
+{
+    margin-left: 20px;
+}
+.feedprofileimage img{
+    /* background-image: url(https://i.pinimg.com/564x/37/3f/79/373f79b980b16c00e46dafbf2bfed14d.jpg); */
+    height: 50px;
+    width: 50px;
+    background-size: cover;
+    border-radius: 50px;
+}
+.feedprofileimage{
+    margin-top: 10px;
+    font-size: 18px;
+}
+#time{
+    font-size: 10px;
+    font-weight: 500;
+}
+.feedhead{
+    margin-left:20px ;
+    margin-top: 10px;
+    font-weight: 500;
+}
+.feedimage img{
+    background-size: cover;
+    height: 600px;
+    width: 658px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    background-image: url();
+}
+#comment{
+    margin-left:305px;
+    font-weight: 500;
+}
+.feedbottom{
+    margin-left: 25px;
+    font-weight: 600;
+}
+
+.like{
+    color: rgb(0, 89, 255);
+    font-size: 25px;
+}
+.heart{
+    color: red;
+    font-size: 25px;
+}
+
+
+
+
+
+
+
+
+

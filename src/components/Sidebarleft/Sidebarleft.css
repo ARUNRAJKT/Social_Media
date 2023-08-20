@@ -1,0 +1,73 @@
+.sidebar{
+    background-color: rgb(75, 75, 75);
+    width: 350px;
+    color: white;
+    height: 879px;
+    height: calc(107vh - 50px);
+    position: fixed;
+    overflow-y: scroll;
+    flex: 3;
+    font-family: monospace;
+}
+::-webkit-scrollbar{
+    width: 0px;
+}
+
+.sidebar:hover{
+    background-color: rgb(48, 48, 48);
+   
+    -webkit-box-shadow: 0px -1px 15px -3px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px -1px 15px -3px rgba(0,0,0,0.75);
+    box-shadow: 0px -1px 15px -3px rgba(0,0,0,0.75);
+
+}
+
+.sb1{
+    font-size: 17.5px;
+    font-weight: 500;
+}
+table{
+    margin-left: 40px;
+}
+td{
+    width: 40px;
+    height: 45px;
+   
+}
+.more:hover{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.more{
+    margin-top: 20px;
+    width: 120px;
+    border-style: none;
+    height: 40px;
+    background-color: rgb(159, 159, 159);
+    border-radius: 10px;
+}
+.sectionname{
+    margin-left: 400px;
+}
+.line{
+    margin-top: 20px;
+    width: 250px;
+    height: 2px;
+    background-color: black;
+}
+.col img{
+    width: 40px;
+    height: 40px;
+    border-radius: 60px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.fname{
+    font-size: 17px;
+    margin-left: 20px;
+}
+.col{
+
+    margin-top: 10px;
+}
+

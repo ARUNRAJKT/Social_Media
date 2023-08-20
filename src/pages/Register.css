@@ -1,0 +1,76 @@
+.login{
+    /* background-color: rgb(22, 20, 20); */
+    
+    background-size: cover;
+}
+.divleft{
+    text-align: center;
+    margin-top: 300px;
+    width: 50%;
+    margin-left: -350px;
+    font-size: 40px;
+}
+.divright{
+    position: absolute;
+    font-size: 25px;
+    background-color: rgb(71, 69, 69);
+    height: 400px;
+    width: 500px;
+    margin-top:-200px;
+    margin-left: 300px;
+    border-radius: 20px;
+    text-align: center;
+}
+.lname{
+    margin-top: 40px;
+    text-align: center;
+}
+.quote{
+    font-size: 20px;
+    color: aliceblue;
+}
+.facebook{
+    color: rgb(66, 66, 248);
+}
+.enter{
+    color: aliceblue;
+    height: 27px;
+    width: 90%;
+    margin-top: 20px;
+    border-radius: 10px;
+    background: transparent;
+}
+::placeholder{
+    color:white;
+    font-size: 15px;
+    
+}
+.log{
+    height: 40px;
+    width: 160px;
+    color: white;
+    margin-left: 20px;
+    margin-top: 36px;
+    font-size: 15px;
+    border-radius: 10px;
+    background-color: rgb(66, 66, 248);;
+
+}
+.h{
+    font-size: 15px;
+    color: rgb(71, 123, 236);
+    text-decoration: none;
+
+    
+}
+.reg{
+    background-color: rgb(20, 189, 4);
+    height: 40px;
+    width: 90%;
+    margin-top: 40px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 600;
+
+
+}

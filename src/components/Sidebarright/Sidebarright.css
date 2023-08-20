@@ -1,0 +1,45 @@
+
+#gift{
+    color: red;
+    font-size: 31px;
+}
+.bday{
+    margin-left: 20px;
+   
+}
+.rightbar{
+    font-family: monospace;
+    width: 430px;
+    height: 750px;
+     margin-top: 2%; 
+    margin-left: 10px; 
+    background-color:transparent;
+    color: white;
+}
+.rightbar:hover{
+    background-color: rgb(48, 48, 48);
+    -webkit-box-shadow: 0px -1px 15px -3px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px -1px 15px -3px rgba(0,0,0,0.75);
+    box-shadow: 0px -1px 15px -3px rgba(0,0,0,0.75);
+
+}
+
+.rightphoto img{
+    width: 400px;
+    height: 400px;
+    border-radius: 20px;
+}
+.right i{
+    position: absolute;
+    color: rgb(34, 255, 0);
+   
+   
+    border-color: rgb(255, 255, 255);
+    border-radius:30px ;
+    margin-left: 76px;
+    margin-top: 20px;
+   
+
+}
+
+

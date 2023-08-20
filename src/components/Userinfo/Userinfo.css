@@ -1,0 +1,76 @@
+.userinfo{
+    background-color: rgb(0, 0, 0);
+    width: 450px;
+    color: white;
+    position: sticky;
+    top: 10;
+    font-family: monospace;
+    height: 829px;
+    border-radius: 15px;
+    margin-left:880px ;
+    position: absolute;
+    line-height: 30px;
+    margin-top: -5950px;
+}
+.info {
+    margin-left: 20px;
+}
+.userfrnds{
+    margin-left: 20px;
+    
+}
+.fpic{
+   
+    height: 300px;
+    width: 430px;
+    
+}
+.pic:hover{
+    color: rgb(8, 8, 8);
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    -webkit-box-shadow: 0px -1px 15px -3px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px -1px 15px -3px rgba(0,0,0,0.75);
+    box-shadow: 0px -1px 15px -3px rgba(0,0,0,0.75);
+
+}
+.pic{
+    margin-top: 20px;
+    width: 120px;
+    font-weight: 600;
+    font-size: 12px;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    margin-left: 5px;
+}
+.pic img{
+    display: flex;
+    width: 120px;
+    height: 120px;
+    border-radius: 10px;
+    
+}
+.fpic,.picsup{
+    display: flex;
+}
+.pupload{
+    margin-left: 18px;
+}
+.picsup img{
+    
+    width: 120px;
+    height: 100px;
+    margin-top: 15px;
+    margin-left: 3px;
+    border-radius: 5px;
+}
+.picsup img:hover{
+    -webkit-box-shadow: 0px -1px 15px -3px rgb(255, 255, 255);
+    -moz-box-shadow: 0px -1px 15px -3px rgb(255, 255, 255);
+    box-shadow: 0px -1px 15px -3px rgb(255, 255, 255);
+    width: 130px;
+    height: 110px;
+    margin-top: 14px;
+    margin-left: 1px;
+    border-radius: 5px;
+}
